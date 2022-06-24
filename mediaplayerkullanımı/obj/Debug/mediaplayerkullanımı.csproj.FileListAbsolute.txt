@@ -1,0 +1,16 @@
+C:\Users\Nur\source\repos\mediaplayerkullanımı\bin\Debug\mediaplayerkullanımı.exe.config
+C:\Users\Nur\source\repos\mediaplayerkullanımı\bin\Debug\mediaplayerkullanımı.exe
+C:\Users\Nur\source\repos\mediaplayerkullanımı\bin\Debug\mediaplayerkullanımı.pdb
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\mediaplayerkullanımı.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\mediaplayerkullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\mediaplayerkullanımı.Form1.resources
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\mediaplayerkullanımı.Properties.Resources.resources
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\mediaplayerkullanımı.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\mediaplayerkullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\mediaplayerkullanımı.exe
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\mediaplayerkullanımı.pdb
+C:\Users\Nur\source\repos\mediaplayerkullanımı\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nur\source\repos\mediaplayerkullanımı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nur\source\repos\mediaplayerkullanımı\obj\Debug\mediaplayerkullanımı.csproj.ResolveComReference.cache
